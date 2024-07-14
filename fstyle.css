@@ -1,0 +1,16 @@
+.a{
+    margin: 3px;
+    padding: auto;
+    height: 350px;
+    width: 340px;
+    display: flex;
+}
+
+.b{
+    margin: 3px;
+    padding: auto;
+    height: 350px;
+    width: 390px;
+    display: flex;
+}
+
